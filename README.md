@@ -1,6 +1,1 @@
-# Task4
-Task is an interface for Arm Robot contain 6 motors
-
-____________________________________________________________________________
-
-تصميم واجهة تحتوي على ست محركات لتتحكم بالذراع الالي للروبوت بواسطة html,css,jquery انشاء قاعدة بيانات تحتوي على جدولين الاول اسمه محركات ويحتوي على 7 اعمدة عمود خاص برقم التعرفة والاعمدة الست الاخرى خاصة بالمحركات الجدول الثاني يحتوي على عمودين عمود خاص بالتعرفة والعمود الثاني للتشغيل والايقاف
+Design an interface that contains six engines to control the robot arm by html, css, jquery Create a database that contains two tables, the first is called engines and contains 7 columns, a column for the tariff number, and the other six columns for the engines. The second table contains two columns, a column for tariff and the second column for on and off.
